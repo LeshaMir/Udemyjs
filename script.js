@@ -119,4 +119,8 @@ function sortStudentsByGroups(data, byEach){
 // personalMovieDB.movies[c] = d;
 
 // console.log(personalMovieDB);
+<<<<<<< HEAD
 // reset soft edit
+=======
+// reset soft
+>>>>>>> 7741420fd164cdfca4d049a134cf9ec3b42edefe
