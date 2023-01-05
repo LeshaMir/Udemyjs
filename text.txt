@@ -5,3 +5,5 @@ Add text file to feature branch 123
 добавил коммит до rebase
 
 добавим коиммит rebase abort
+
+main edit
