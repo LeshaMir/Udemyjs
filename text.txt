@@ -3,3 +3,5 @@ Add text file to feature branch 123
 что-то написал и создал коммит
 
 добавил коммит до rebase
+
+добавим коиммит rebase abort
