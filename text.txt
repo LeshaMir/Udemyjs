@@ -7,5 +7,3 @@ Add text file to feature branch 123
 добавим коиммит rebase abort
 
 main edit here and --f09fi0934  dsfdfjofi
-
-before revert
