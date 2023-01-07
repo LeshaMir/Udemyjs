@@ -10,4 +10,6 @@ add 3 commit
 
 add text 
 
+comannds add commit
+
 add text 111
